@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhotoGalleryNeu</string>
+    <string name="fragment_post_user_id_label">User ID</string>
+    <string name="fragment_post_post_id_label">Post ID</string>
+    <string name="fragment_post_title_label">Title</string>
+    <string name="fragment_post_body_label">Text</string>
+    <string name="fragment_post_list_menu_open_photo_gallery">Switch to gallery</string>
+    <string name="fragment_photo_gallery_menu_open_post_list">Switch to postlist</string>
+    <string name="fragment_create_post_user_id_hint">Enter User ID...</string>
+    <string name="fragment_create_post_post_id_hint">Enter Post ID...</string>
+    <string name="fragment_create_post_title_hint">Enter Title...</string>
+    <string name="fragment_create_post_body_hint">Enter Text...</string>
+</resources>

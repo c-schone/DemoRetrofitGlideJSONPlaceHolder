@@ -6,3 +6,4 @@ Diese werden in einer Liste bzw. Galerie mittels einer Recyclerview dargestellt.
 und die Möglichkeit, neue Posts zu erstellen und diese an den Server zu senden.
 Dieses Projekt wurde für Android 4.4 und neuer entwickelt und verwendet Support Libraries, um beispielsweise den
 Floating Action Button auch in älteren Versionen verwenden zu können.
+Zur Bilddarstellung wird die Glide Library verwendet.

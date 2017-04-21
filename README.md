@@ -1,5 +1,5 @@
-# TestAufgabeKomplett
-Android App zur Darstellung von einer Liste von Posts, sowie einer Bildergalerie.
+# DemoRetrofitGlideJSONPlaceHolder
+Android App zur Darstellung von einer Liste von Posts, sowie einer Bildergalerie mittels Retrofit und Glide.
 
 Dieses Projekt holt mittels Retrofit und GSON von https://jsonplaceholder.typicode.com prototyptische Posts und Bilder.
 Diese werden in einer Liste bzw. Galerie mittels einer Recyclerview dargestellt. Außerdem werden Detailviews angeboten
